@@ -1,0 +1,23 @@
+form
+{
+    margin: 250px 0px;
+}
+
+#error
+{
+    background-color: blue;
+    padding: 25px;
+    border: 1px solid #f44336;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.3em;
+}
+#errore
+{
+    background-color: blue;
+    padding: 25px;
+    border: 1px solid #f44336;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.3em;
+}
